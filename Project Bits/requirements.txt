@@ -1,0 +1,5 @@
+requests
+geocoder
+win10toast
+tk
+Pillow
